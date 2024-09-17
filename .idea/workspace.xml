@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="feb6d470-6768-4f5e-b0be-c51c4b490c18" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Support-Vector-Machine/SupportVectorMachine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Support-Vector-Machine/SupportVectorMachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GridSearchCV/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/K-Means-Clustering/k-means-customer-segmentation-data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/K-Means-Clustering/k-means-random-data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Class-Classification/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
